@@ -30,10 +30,12 @@ h3{
  .computerimage{
     width: 25%;
     float: left;
+    margin-right: 25px;
 }
 .chilliesimage{
     width: 25%;
     float: left;
+    margin-right: 25px ;
 }
  .bottom-cloud{
      position: absolute;
