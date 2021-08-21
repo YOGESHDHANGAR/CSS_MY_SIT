@@ -34,8 +34,8 @@ h3{
 }
 .chilliesimage{
     width: 25%;
-    float: left;
-    margin-right: 25px ;
+    float: right;
+    margin-left: 25px ;
 }
  .bottom-cloud{
      position: absolute;
@@ -58,6 +58,7 @@ h3{
      margin: 100px auto;
      text-align: left;
      line-height: 2;
+     padding-bottom: 50px;
  }
 
 
