@@ -29,9 +29,11 @@ h3{
  }
  .computerimage{
     width: 25%;
+    float: left;
 }
 .chilliesimage{
     width: 25%;
+    float: left;
 }
  .bottom-cloud{
      position: absolute;
