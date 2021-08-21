@@ -27,6 +27,12 @@ h3{
  }
  .bottom-container{
  }
+ .computerimage{
+    width: 25%;
+}
+.chilliesimage{
+    width: 25%;
+}
  .bottom-cloud{
      position: absolute;
      left:300px;
@@ -49,10 +55,5 @@ h3{
      text-align: left;
      line-height: 2;
  }
-.computerimage{
-    width: 25%;
-}
-.chilliesimage{
-    width: 25%;
-}
+
 
