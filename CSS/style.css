@@ -24,7 +24,9 @@ a{
     text-decoration: none;
     color: #035397
 }
-
+a:hover{
+    color: white;
+}
 .copyright-mesage{
     color:white;
 
