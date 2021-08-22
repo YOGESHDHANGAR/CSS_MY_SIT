@@ -18,6 +18,10 @@ h3{
     color:#11999E;
     font-family: 'Montserrat', sans-serif;
 }
+.contact-message-text{
+    width: 30%;
+
+}
 .top-container{
     background-color: #E4F9F5;
     position: relative;
