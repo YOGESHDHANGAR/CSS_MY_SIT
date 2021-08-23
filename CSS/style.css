@@ -27,6 +27,7 @@ hr{
 }
 a{
     font-family: 'Montserrat', sans-serif;
+    font-size  : 1.25rem;   
     margin:10px 20px;
     text-decoration: none;
     color: #035397
